@@ -1,7 +1,7 @@
 # hw9
 # Использовала регулярное выражение:(^\s*\n*\r)|(\n)  ,заменила все вхождения на  пустые строки.
-https://github.com/msgvozdeva/hw9/blob/master/2018-06-01%20(3).png
+[https://github.com/msgvozdeva/hw9/blob/master/2018-06-01%20(3).png]
 # Использовала регулярное выражение: (^|\s)+[А-Я](а-я)*(слав)  Всего упоминаний о князьях нашел: 471
-https://github.com/msgvozdeva/hw9/blob/master/2018-06-01%20(1).png
+[https://github.com/msgvozdeva/hw9/blob/master/2018-06-01%20(1).png]
 # Использовала регулярное выражение:(^|\s)+[Н](а-я)*(город)  Всего упоминаний Новгорода нашел: 32
-https://github.com/msgvozdeva/hw9/blob/master/2018-06-01%20(2).png
+[https://github.com/msgvozdeva/hw9/blob/master/2018-06-01%20(2).png]
